@@ -1,0 +1,6 @@
+framework module Pods_MOSUITests {
+  umbrella header "Pods-MOSUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
